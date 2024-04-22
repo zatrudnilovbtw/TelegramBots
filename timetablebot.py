@@ -1,7 +1,7 @@
 import telebot
 from datetime import datetime
 from telebot import types
-TOKEN = '6738731910:AAFgMUkKNCVIkjchhmWK-hZnN7yp392sVuU'
+TOKEN = 'ur token'
 bot = telebot.TeleBot(TOKEN)
 
 schedule = {
